@@ -1,5 +1,7 @@
 # Phishing Website Detector
 
+**Live demo:** https://phishing-website-detector-k5mb3cndcjkvrkcfaypexz.streamlit.app/
+
 MSc Dissertation demo — *A Deep Learning Framework for Phishing Website Detection Using URL and HTML Features.*
 Student: Sushma Singahalli Parashuramappa (250638286). Supervisor: Bo Wei.
 
